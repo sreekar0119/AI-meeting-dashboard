@@ -1,0 +1,93 @@
+[
+  {
+    "meeting_id": "mtg_5cbb3e3dee16",
+    "owner": "Revanth",
+    "task": "Prepare documentation on product usage and provide a clear summary to Akash.",
+    "due_date": "2026-05-04",
+    "priority": "high",
+    "status": "in_progress",
+    "id": "act_1f66fad82147",
+    "source": "insight",
+    "insight_id": "ins_8b0486f9efe2",
+    "created_at": "2026-04-30T13:06:48.678580Z",
+    "updated_at": "2026-04-30T13:10:28.914102Z"
+  },
+  {
+    "meeting_id": "mtg_5cbb3e3dee16",
+    "owner": "Akash",
+    "task": "Explain the product to clients starting from 2026-05-05.",
+    "due_date": "2026-05-05",
+    "priority": "high",
+    "status": "open",
+    "id": "act_6634bca264bd",
+    "source": "insight",
+    "insight_id": "ins_8b0486f9efe2",
+    "created_at": "2026-04-30T13:06:48.678580Z",
+    "updated_at": "2026-04-30T13:13:03.308634Z"
+  },
+  {
+    "meeting_id": "mtg_43dcde5546c3",
+    "owner": "Pruthvi",
+    "task": "Fix the authentication service issue blocking testing",
+    "due_date": "2024-06-02",
+    "priority": "high",
+    "status": "open",
+    "id": "act_0b0265796874",
+    "source": "insight",
+    "insight_id": "ins_f0b4bd3ddb89",
+    "created_at": "2026-05-05T05:13:33.854086Z",
+    "updated_at": "2026-05-05T05:13:33.854086Z"
+  },
+  {
+    "meeting_id": "mtg_43dcde5546c3",
+    "owner": "Akash",
+    "task": "Send the dashboard design file to Sreekar",
+    "due_date": "2024-06-01",
+    "priority": "medium",
+    "status": "open",
+    "id": "act_66620d4b2e12",
+    "source": "insight",
+    "insight_id": "ins_f0b4bd3ddb89",
+    "created_at": "2026-05-05T05:13:33.854086Z",
+    "updated_at": "2026-05-05T05:13:33.854086Z"
+  },
+  {
+    "meeting_id": "mtg_43dcde5546c3",
+    "owner": "Sreekar",
+    "task": "Update the frontend dashboard component to match the new design",
+    "due_date": null,
+    "priority": "medium",
+    "status": "open",
+    "id": "act_5515493f940f",
+    "source": "insight",
+    "insight_id": "ins_f0b4bd3ddb89",
+    "created_at": "2026-05-05T05:13:33.854086Z",
+    "updated_at": "2026-05-05T05:13:33.854086Z"
+  },
+  {
+    "meeting_id": "mtg_43dcde5546c3",
+    "owner": "Sreekar",
+    "task": "Coordinate the testing session scheduled for next week",
+    "due_date": null,
+    "priority": "medium",
+    "status": "open",
+    "id": "act_f686eb9d8cdd",
+    "source": "insight",
+    "insight_id": "ins_f0b4bd3ddb89",
+    "created_at": "2026-05-05T05:13:33.854086Z",
+    "updated_at": "2026-05-05T05:13:33.854086Z"
+  },
+  {
+    "meeting_id": "mtg_43dcde5546c3",
+    "owner": "Revanth",
+    "task": "Write API documentation after the product launch",
+    "due_date": null,
+    "priority": "medium",
+    "status": "open",
+    "id": "act_4850069c90ba",
+    "source": "insight",
+    "insight_id": "ins_f0b4bd3ddb89",
+    "created_at": "2026-05-05T05:13:33.854086Z",
+    "updated_at": "2026-05-05T05:13:33.854086Z"
+  }
+]

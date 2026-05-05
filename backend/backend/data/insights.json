@@ -1,0 +1,79 @@
+[
+  {
+    "summary_short": "Discussion on product usage, documentation preparation, and client explanation.",
+    "summary_detailed": "Sreekar explained the product usage to Revanth and Akash. Revanth faced some blockages and will clarify them with Akash before preparing documentation. Akash will assist Revanth. Once documentation is ready, Akash will explain the product to clients.",
+    "decisions": [
+      "Revanth will prepare documentation after clarifying blockages with Akash.",
+      "Akash will explain the product to clients."
+    ],
+    "blockers": [
+      "Revanth had some blockages that need clarification with Akash."
+    ],
+    "action_items": [
+      {
+        "owner": "Revanth",
+        "task": "Prepare documentation on product usage and provide a clear summary to Akash.",
+        "due_date": "2026-05-04",
+        "priority": "high"
+      },
+      {
+        "owner": "Akash",
+        "task": "Explain the product to clients starting from 2026-05-05.",
+        "due_date": "2026-05-05",
+        "priority": "high"
+      }
+    ],
+    "id": "ins_8b0486f9efe2",
+    "meeting_id": "mtg_5cbb3e3dee16",
+    "generated_at": "2026-04-30T13:06:48.678580Z"
+  },
+  {
+    "summary_short": "Critical backend auth issue blocking testing; fix due tomorrow. Frontend dashboard update pending design file. Analytics and API documentation scheduled post-launch. Testing session planned for next week.",
+    "summary_detailed": "The meeting focused on the Q2 product launch. Pruthvi reported a critical authentication service issue blocking testing, requiring an urgent fix by tomorrow end of day. The frontend is mostly ready but needs the dashboard component updated to match the new design; Sreekar will handle this once Akash sends the design file by end of day. Analytics tracking will be implemented after launch as part of the next sprint backlog. A testing session is scheduled for next week, coordinated by Sreekar. API documentation will be written by Revanth after the launch. The team agreed to sync again tomorrow to review progress.",
+    "decisions": [
+      "Pruthvi to fix the authentication service issue by tomorrow EOD.",
+      "Sreekar to update the frontend dashboard component after receiving the design file from Akash.",
+      "Analytics tracking to be implemented after the product launch in the next sprint.",
+      "API documentation to be written after the launch by Revanth.",
+      "Testing session to be scheduled for next week, coordinated by Sreekar."
+    ],
+    "blockers": [
+      "Authentication service not handling concurrent requests properly, blocking testing."
+    ],
+    "action_items": [
+      {
+        "owner": "Pruthvi",
+        "task": "Fix the authentication service issue blocking testing",
+        "due_date": "2024-06-02",
+        "priority": "high"
+      },
+      {
+        "owner": "Akash",
+        "task": "Send the dashboard design file to Sreekar",
+        "due_date": "2024-06-01",
+        "priority": "medium"
+      },
+      {
+        "owner": "Sreekar",
+        "task": "Update the frontend dashboard component to match the new design",
+        "due_date": null,
+        "priority": "medium"
+      },
+      {
+        "owner": "Sreekar",
+        "task": "Coordinate the testing session scheduled for next week",
+        "due_date": null,
+        "priority": "medium"
+      },
+      {
+        "owner": "Revanth",
+        "task": "Write API documentation after the product launch",
+        "due_date": null,
+        "priority": "medium"
+      }
+    ],
+    "id": "ins_f0b4bd3ddb89",
+    "meeting_id": "mtg_43dcde5546c3",
+    "generated_at": "2026-05-05T05:13:33.854086Z"
+  }
+]

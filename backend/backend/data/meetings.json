@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Usage of the product",
+    "date": "2026-04-30",
+    "participants": [
+      "Revanth",
+      "Sreekar",
+      "Akash"
+    ],
+    "transcript": "Sreekar: Explained about the usage of the product to revanth and akash.\nRevanth: I had some blockages so i will clarify with akash and then I will prepare a documentation.\nAkash: Iwill help Revanth.\nAction: Revanth to prepare documentation and then give a clear summary to akash so that akash can take to clients by 04-05-2026.\nAction: Akash to explain clients about the product and it should be started by 05-05-2026",
+    "id": "mtg_5cbb3e3dee16",
+    "created_at": "2026-04-30T13:06:42.438105Z",
+    "updated_at": "2026-04-30T13:06:42.438105Z"
+  },
+  {
+    "title": "Q2 Product Launch Planning",
+    "date": "2024-06-01",
+    "participants": [
+      "Sreekar",
+      "Pruthvi",
+      "Revanth",
+      "Akash"
+    ],
+    "transcript": "Sreekar: Good morning everyone. Let's discuss the Q2 product launch. First, Pruthvi, what's the status on the backend API?\n\nPruthvi: We have a critical issue with the authentication service. It's not handling concurrent requests properly. This is blocking us from proceeding with testing.\n\nRevanth: How urgent is this? We have the launch scheduled for next month.\n\nPruthvi: Very urgent. We need to fix this blocker today or tomorrow at the latest. I'll work on it.\n\nSreekar: Agreed. Pruthvi, can you have a fix by tomorrow EOD?\n\nPruthvi: Yes, I'll prioritize this today.\n\nAkash: What about the frontend? Are we ready there?\n\nRevanth: Mostly ready. But we need to update the dashboard component to match the new design. Sreekar, can you handle this?\n\nSreekar: Sure, I'll start on it. But I need the design file first. When will that be ready?\n\nAkash: I'll send it by end of day. It's not critical, just needs to be updated before launch.\n\nRevanth: We also decided to add analytics tracking to the app. This is important for our business metrics.\n\nSreekar: Should we implement this before or after launch?\n\nRevanth: After launch is fine. It's on the backlog for next sprint.\n\nPruthvi: One more thing - we need to schedule a testing session. Let's do it next week.\n\nSreekar: I'll coordinate the testing session next week. Also, we should document the API changes. Revanth, can you handle this?\n\nRevanth: Sure, I can write the API documentation. I'll do it after the launch.\n\nAkash: Great. Let me summarize: Pruthvi fixes the auth issue urgently, Sreekar updates the frontend, and we're good to go. We'll add analytics later and document after launch.\n\nSreekar: Perfect. Let's sync again tomorrow to check progress.",
+    "id": "mtg_43dcde5546c3",
+    "created_at": "2026-05-05T05:10:12.030182Z",
+    "updated_at": "2026-05-05T05:10:12.030182Z"
+  }
+]
