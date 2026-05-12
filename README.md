@@ -13,7 +13,6 @@ AI Meeting Insights Dashboard is a complete MVP for uploading meeting transcript
 
 - Create meetings from transcript input
 - Generate insights per meeting
-- Deterministic mock insight extractor when `OPENAI_API_KEY` is not set
 - Optional OpenAI-backed insight generation when `OPENAI_API_KEY` is set
 - CRUD-ready action item API with dedicated status updates
 - Meeting list filters by date range, participant, owner, and status
